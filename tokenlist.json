@@ -1,11 +1,15 @@
 {
-  "chainId": 250,
-  "address": "0xbb213464172a1a0a08d974b2bdd8fa1b7fc36a3d",
-  "name": "Vatio",
-  "symbol": "VATT",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/VatioVATT/fantom-tokenlist/refs/heads/master/assets/VATT/logoVATT.png",
-  "website": "https://vatio.xyz",
-  "description": "Vatio VATT The currency of the new energy age",
-  "tags": ["token", "vatio", "VATT"]
+    "chainId": 250,
+    "address": "0xbb213464172a1a0a08d974b2bdd8fa1b7fc36a3d",
+    "name": "Vatio",
+    "symbol": "VATT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/VatioVATT/fantom-tokenlist/refs/heads/master/assets/VATT/logo.png",
+    "website": "https://vatio.xyz",
+    "description": "Vatio VATT The currency of the new energy age",
+    "tags": [
+        "token",
+        "vatio",
+        "VATT"
+    ]
 }
